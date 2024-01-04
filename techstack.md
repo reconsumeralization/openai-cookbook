@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 reconsumeralization/openai-cookbook is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -31,11 +32,13 @@ reconsumeralization/openai-cookbook is built on the following main stack:
 - [Weaviate](https://weaviate.io/) – Search Engines
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 reconsumeralization/openai-cookbook is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -65,14 +68,15 @@ reconsumeralization/openai-cookbook is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/48640/default_e449cca14683994294f8d6a9d2d22791e7e8448b.jpg' alt='Weaviate'/> [Weaviate](https://weaviate.io/) – Search Engines
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [reconsumeralization/openai-cookbook](https://github.com/reconsumeralization/openai-cookbook)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|42<br/>Tools used|11/09/23 <br/>Report generated|
+|42<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -378,10 +382,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[PyPDF2](https://pypi.org/PyPDF2)|v2.10.4|04/03/23|isafulf |Other|[CVE-2023-36464](https://github.com/advisories/GHSA-4vvm-4w3v-6mr8) (Moderate)|
-|[yarl](https://pypi.org/yarl)|v1.8.2|05/11/23|Darshan Panchal |Apache-2.0|N/A|
+|[PyPDF2](https://pypi.org/project/PyPDF2)|v2.10.4|04/03/23|isafulf |Other|[CVE-2023-36464](https://github.com/advisories/GHSA-4vvm-4w3v-6mr8) (Moderate)|
+|[yarl](https://pypi.org/project/yarl)|v1.8.2|05/11/23|Darshan Panchal |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
