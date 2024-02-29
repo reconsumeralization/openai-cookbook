@@ -2,7 +2,7 @@ repo_name: reconsumeralization/openai-cookbook
 report_id: 6fd2e306ddc3685b9bc0a176edf3a437
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:17:18+00:00'
+timestamp: '2024-02-29T18:12:51+00:00'
 requested_by: ted-at-openai
 provider: github
 branch: main
@@ -104,7 +104,7 @@ tools:
   last_updated_by: Logan Kilpatrick
   last_updated_on: 2023-02-03 21:42:19.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.1.2
   open_source: true
@@ -143,6 +143,19 @@ tools:
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
+- name: Milvus
+  description: An Open Source Vector Similarity Search Engine
+  website_url: https://milvus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Vector Databases
+  image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
+  detection_source_url: https://github.com/reconsumeralization/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
+  detection_source: examples/vector_databases/milvus/docker-compose.yaml
+  last_updated_by: Filip Haltmayer
+  last_updated_on: 2023-02-15 19:49:27.000000000 Z
 - name: Minio
   description: AWS S3 open source alternative written in Go
   website_url: https://minio.io/
@@ -277,19 +290,6 @@ tools:
   detection_source: apps/file-q-and-a/nextjs-with-flask-server/client/package.json
   last_updated_by: isafulf
   last_updated_on: 2023-02-12 00:29:30.000000000 Z
-- name: Milvus
-  description: An Open Source Vector Similarity Search Engine
-  website_url: https://milvus.io/
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Application Utilities
-  sub_category: Search Engines
-  image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
-  detection_source_url: https://github.com/reconsumeralization/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
-  detection_source: examples/vector_databases/milvus/docker-compose.yaml
-  last_updated_by: Filip Haltmayer
-  last_updated_on: 2023-02-15 19:49:27.000000000 Z
 - name: NumPy
   description: Fundamental package for scientific computing with Python
   website_url: http://www.numpy.org/
